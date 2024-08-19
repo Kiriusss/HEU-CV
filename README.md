@@ -1,8 +1,10 @@
 # HEU-CV
-一个哈尔滨工程大学主题的Latex简历模板
+
+一个哈尔滨工程大学主题的Latex简历模板。
+
 本模板基于：
 
-- [SEU 中文 CV 模板](https://www.overleaf.com/latex/templates/whuwu-han-da-xue-zhong-wen-jian-li-mo-ban/dbkvxrqjmzpd)
+- [SEU 中文 CV 模板](https://github.com/Exception0x0194/SEU-CV)
 
 ## 使用方法
 
